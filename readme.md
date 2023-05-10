@@ -5,9 +5,11 @@
 
 - 👨‍💻 All of my projects are available at [http://github.com/lokeshvelayudham](http://github.com/lokeshvelayudham)
 
-- 💬 Ask me about **python, Js, React, Node**
+- 💬 Ask me about **Crypto, eth, solidity, python, Js, React, Node**
 
 - 📫 How to reach me **lokeshvelayudham@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1T5npg-sWkZbSjHOSndrsFIjvaOJbdpDO/view?usp=sharing](https://drive.google.com/file/d/1T5npg-sWkZbSjHOSndrsFIjvaOJbdpDO/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
