@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lokeshvelayudham@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1T5npg-sWkZbSjHOSndrsFIjvaOJbdpDO/view?usp=sharing](https://drive.google.com/file/d/1T5npg-sWkZbSjHOSndrsFIjvaOJbdpDO/view?usp=sharing)
+- 📄 Know about my experiences https://lokeshvelayudham.github.io/portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
