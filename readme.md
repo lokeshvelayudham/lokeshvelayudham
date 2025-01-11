@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Poluru Velayudham</h1>
-<h3 align="center">A dedicated Full Stack Developer with a passion for AI technologies and decentralized applications (dApps). With a strong background in front-end and back-end development.</h3>
+<h3 align="center">A dedicated Full Stack Developer with a passion for AI technologies (LLM). With a strong background in front-end and back-end development.</h3>
 
 <p align="left"> <a href="https://twitter.com/lokeshvelayudha" target="blank"><img src="https://img.shields.io/twitter/follow/lokeshvelayudha?logo=twitter&style=for-the-badge" alt="lokeshvelayudha" /></a> </p>
 
