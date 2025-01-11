@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [http://github.com/lokeshvelayudham](http://github.com/lokeshvelayudham)
 
-- 💬 Ask me about **Crypto, eth, solidity, python, Js, React, Node**
+- 💬 Ask me about **LLM, DeepLearning, FlashAttention, python, Js, React, Node**
 
 - 📫 How to reach me **lokeshvelayudham@gmail.com**
 
